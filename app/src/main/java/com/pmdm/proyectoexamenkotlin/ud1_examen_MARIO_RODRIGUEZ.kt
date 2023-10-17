@@ -75,3 +75,7 @@ fun main() {
     println()
     procesarReserva(nombre, hora, dia, mes, anyo, dispo)
 }
+
+fun oduu(){
+    
+}
